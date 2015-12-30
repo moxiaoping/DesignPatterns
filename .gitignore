@@ -90,3 +90,5 @@ Factory/Debug/Factory.log
 Factory/Factory.opensdf
 *.suo
 Factory/Factory.vcxproj.filters
+*.filters
+*.opensdf
