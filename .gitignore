@@ -81,3 +81,12 @@ $RECYCLE.BIN/
 *.sdf
 *.sln
 *.vcxproj
+*.idb
+*.pdb
+Factory/Debug/Factory.tlog/link.write.1.tlog
+*.ilk
+Factory/Debug/Factory.log
+*.tlog
+Factory/Factory.opensdf
+*.suo
+Factory/Factory.vcxproj.filters
