@@ -1,3 +1,3 @@
 # DesignPatterns
 
-Learn Design Patterns by using C++.
+Learn Design Patterns using C++.
