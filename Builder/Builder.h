@@ -4,6 +4,7 @@
 #include <string>
 using namespace std;
 class Product;
+
 class Builder
 {
 public:
@@ -16,6 +17,7 @@ protected:
 	Builder();
 private:
 };
+
 class ConcreteBuilder :public Builder
 {
 public:
